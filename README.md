@@ -80,7 +80,7 @@ Contributions are welcome! If you have any suggestions for improvements or find 
 
 ### Contact
 
-For questions or further information, please contact lukesundar@gmail.com
+For questions or further information, please contact vamsivikkurty12345.com
 ---
 
 By using this repository, you can efficiently manage user and group creation in your Active Directory environment, leveraging the power and flexibility of PowerShell.
